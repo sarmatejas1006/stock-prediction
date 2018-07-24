@@ -1,3 +1,3 @@
 # Stock Price Prediction
 
--Comign soon-
+-Coming soon-
