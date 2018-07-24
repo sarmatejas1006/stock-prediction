@@ -1,2 +1,3 @@
-# stock-prediction
-BE Project
+# Stock Price Prediction
+
+-Comign soon-
